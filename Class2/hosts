@@ -1,0 +1,2 @@
+vm1 ansible_host=18.221.71.177 #ubuntu
+vm2 ansible_host=18.191.167.100 ansible_user=ec2-user #amazon
